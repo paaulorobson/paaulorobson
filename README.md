@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Paulo Robson, sou desenvolvedor de <strong>Front-End</strong>. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
+  Olá meu nome é Paulo Robson, sou desenvolvedor <strong>Front-End</strong> e amante de UX e UI Design. Estou disponível para freelas/trabalho, caso precise contratar meu serviço entre em contato.
 </p>
 
 <p align="left">
