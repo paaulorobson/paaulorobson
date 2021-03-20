@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Habilidades: <strong>React JS, Vue JS, JavaScript, TypeScript, HTML, CSS, Sass.</strong>
+  🦄 Habilidades: <strong>React JS, Vue JS, JavaScript, ES6+, TypeScript, HTML, CSS, Sass.</strong>
 </p>
 
 <p align="left">
